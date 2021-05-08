@@ -28,7 +28,6 @@ const wtsApp = require('./wtsApp');
    let covidInfo = await tab.$$(".mob-hide")
 
 
-
    let arr = [];
 
    for (let i = 1; i < covidInfo.length; i += 2) {
@@ -44,8 +43,6 @@ const wtsApp = require('./wtsApp');
    stats.DisCharged = arr[1].substring(0, 7);
    stats.Deaths = arr[2].substring(0, 6);
 
-   console.log(stats)
-
    // task -2;
 
    await tab.goto("https://life.coronasafe.network/delhi_(nct)")
@@ -59,6 +56,7 @@ const wtsApp = require('./wtsApp');
    setTimeout(async ()=>{
       await tab.goto("https://web.whatsapp.com/");
    },5000)
+
 
    wtsApp(tab);
    

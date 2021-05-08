@@ -3,10 +3,10 @@
     "DisCharged": "1793096",
     "Deaths": "238270",
     "VerifiedContacts": [
-        "0) OxygenVerifiedvinayak enterprisesShare on TwitterShare on WhatsappShare on FacebookCopy to ClipboardShare on LinkedinNew DelhidelhiQuantity Available: NAPrice: ₹ NA9350109650SourceChecked on: ",
-        "1) OxygenVerifiedram gas agency Share on TwitterShare on WhatsappShare on FacebookCopy to ClipboardShare on LinkedinNew DelhiQuantity Available: NAPrice: ₹ NA9205202518Checked on: 1 week ago",
-        "2) OxygenVerifiedswastik tradersShare on TwitterShare on WhatsappShare on FacebookCopy to ClipboardShare on LinkedinNew DelhidelhiQuantity Available: NAPrice: ₹ NA9311633256SourceChecked on: ",
-        "3) OxygenVerifiedorbit gasesShare on TwitterShare on WhatsappShare on FacebookCopy to ClipboardShare on LinkedinNew Delhinaraina, new delhiQuantity Available: NAPrice: ₹ NA9815221969SourceChecked on: ",
-        "4) OxygenVerifiedpawar medicareShare on TwitterShare on WhatsappShare on FacebookCopy to ClipboardShare on LinkedinNew DelhidelhiQuantity Available: NAPrice: ₹ NA9810754021SourceChecked on: "
+        "0) Medicine - FabifluVerifiedevergreen chemistShare on TwitterShare on WhatsappShare on FacebookCopy to ClipboardShare on LinkedinNorth West DelhiGet directionsGet Directionsmgs hospital, punjabi baghFabiflu9818222450Checked on: 27/4/2021 6:49pm",
+        "1) MedicineVerifiedankur medicosShare on TwitterShare on WhatsappShare on FacebookCopy to ClipboardShare on LinkedinNew Delhik-420, opposite sanjay gandhi memorial hospital gate no. 3, mongolpuri, delhi-11008392115215609212641109EmailChecked on: 6 days ago",
+        "2) Medicine - RemdesivirUnresponsivegautam enterprisesShare on TwitterShare on WhatsappShare on FacebookCopy to ClipboardShare on LinkedinNew DelhiGet directionsGet Directionswz-69b, mukherjee parktilak nagarnew delhinew delhi,delhi,110018Remdesivir distribution list011-25982030 9868124105EmailChecked on: 23/4/2021 11:27am",
+        "3) Medicine - RemdesivirNot Verifiedvipul pharmaShare on TwitterShare on WhatsappShare on FacebookCopy to ClipboardShare on LinkedinNew DelhiGet directionsGet Directions809, pearls business park, netaji subhash place, pitam pura, delhi, 110034, india011-42481155SourceChecked on: 27/4/2021 6:28pm",
+        "4) Medicine - RemdesivirNot Verifiedpawan jhaShare on TwitterShare on WhatsappShare on FacebookCopy to ClipboardShare on LinkedinNew DelhiGet directionsGet Directionsdelhi9136133470Checked on: 27/4/2021 6:28pm"
     ]
 }
