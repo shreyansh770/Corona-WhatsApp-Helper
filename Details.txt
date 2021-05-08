@@ -1,0 +1,12 @@
+{
+    "ActiveCase": "3723446",
+    "DisCharged": "1793096",
+    "Deaths": "238270",
+    "VerifiedContacts": [
+        "0) OxygenVerifiedvinayak enterprisesShare on TwitterShare on WhatsappShare on FacebookCopy to ClipboardShare on LinkedinNew DelhidelhiQuantity Available: NAPrice: ₹ NA9350109650SourceChecked on: ",
+        "1) OxygenVerifiedram gas agency Share on TwitterShare on WhatsappShare on FacebookCopy to ClipboardShare on LinkedinNew DelhiQuantity Available: NAPrice: ₹ NA9205202518Checked on: 1 week ago",
+        "2) OxygenVerifiedswastik tradersShare on TwitterShare on WhatsappShare on FacebookCopy to ClipboardShare on LinkedinNew DelhidelhiQuantity Available: NAPrice: ₹ NA9311633256SourceChecked on: ",
+        "3) OxygenVerifiedorbit gasesShare on TwitterShare on WhatsappShare on FacebookCopy to ClipboardShare on LinkedinNew Delhinaraina, new delhiQuantity Available: NAPrice: ₹ NA9815221969SourceChecked on: ",
+        "4) OxygenVerifiedpawar medicareShare on TwitterShare on WhatsappShare on FacebookCopy to ClipboardShare on LinkedinNew DelhidelhiQuantity Available: NAPrice: ₹ NA9810754021SourceChecked on: "
+    ]
+}
