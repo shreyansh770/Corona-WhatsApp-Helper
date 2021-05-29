@@ -1,12 +1,12 @@
 {
-    "ActiveCase": "3723446",
-    "DisCharged": "1793096",
-    "Deaths": "238270",
+    "ActiveCase": "3736648",
+    "DisCharged": "1831740",
+    "Deaths": "242362",
     "VerifiedContacts": [
-        "0) Medicine - FabifluVerifiedevergreen chemistShare on TwitterShare on WhatsappShare on FacebookCopy to ClipboardShare on LinkedinNorth West DelhiGet directionsGet Directionsmgs hospital, punjabi baghFabiflu9818222450Checked on: 27/4/2021 6:49pm",
-        "1) MedicineVerifiedankur medicosShare on TwitterShare on WhatsappShare on FacebookCopy to ClipboardShare on LinkedinNew Delhik-420, opposite sanjay gandhi memorial hospital gate no. 3, mongolpuri, delhi-11008392115215609212641109EmailChecked on: 6 days ago",
-        "2) Medicine - RemdesivirUnresponsivegautam enterprisesShare on TwitterShare on WhatsappShare on FacebookCopy to ClipboardShare on LinkedinNew DelhiGet directionsGet Directionswz-69b, mukherjee parktilak nagarnew delhinew delhi,delhi,110018Remdesivir distribution list011-25982030 9868124105EmailChecked on: 23/4/2021 11:27am",
-        "3) Medicine - RemdesivirNot Verifiedvipul pharmaShare on TwitterShare on WhatsappShare on FacebookCopy to ClipboardShare on LinkedinNew DelhiGet directionsGet Directions809, pearls business park, netaji subhash place, pitam pura, delhi, 110034, india011-42481155SourceChecked on: 27/4/2021 6:28pm",
-        "4) Medicine - RemdesivirNot Verifiedpawan jhaShare on TwitterShare on WhatsappShare on FacebookCopy to ClipboardShare on LinkedinNew DelhiGet directionsGet Directionsdelhi9136133470Checked on: 27/4/2021 6:28pm"
+        "0) AmbulanceVerifiedmukesk yadavShare on TwitterShare on WhatsappShare on FacebookCopy to ClipboardShare on LinkedinNew DelhiOperational & Oxygen is also available8178312253",
+        "1) AmbulanceVerifiedpradeepShare on TwitterShare on WhatsappShare on FacebookCopy to ClipboardShare on LinkedinNew DelhiOperational 8500 (oxygen), 7500 (w/o Oxy...Read More9319759069",
+        "2) AmbulanceVerifiedmittal ambulanceShare on TwitterShare on WhatsappShare on FacebookCopy to ClipboardShare on LinkedinNew DelhiService operational. Oxygen is not avail...Read More7982480180",
+        "3) AmbulanceVerifiedlal singh ambulanceShare on TwitterShare on WhatsappShare on FacebookCopy to ClipboardShare on LinkedinNew DelhiService operational. But Oxygen is not a...Read More9810958546",
+        "4) AmbulanceNot Verifiedpatel ambulanceShare on TwitterShare on WhatsappShare on FacebookCopy to ClipboardShare on LinkedinSouth West DelhiYes only in dwarka9910971212"
     ]
 }

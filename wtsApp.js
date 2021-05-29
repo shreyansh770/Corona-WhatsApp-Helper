@@ -4,9 +4,9 @@ module.exports = async function wtsApp(tab){
           visible : true
      })
 
-     await tab.$("span [title ='Mummy']")
+     await tab.$("span [title ='GauravB']")
 
-     await tab.click("span [title ='Mummy']");
+     await tab.click("span [title ='GauravB']");
 
     await tab.waitForSelector("#main > footer > div.vR1LG._3wXwX.copyable-area > div.EBaI7._23e-h > div._2C9f1 > div > div > span");
 
@@ -19,7 +19,8 @@ module.exports = async function wtsApp(tab){
 
     await fileChooser[0].accept(['/Users/shrey/Desktop/pp9-dev/hackathon/Details.txt'])
      
-    await tab.keyboard.press("Enter")
+    await tab.waitForSelector(".SncVf _3doiV")
+    await tab.click(".SncVf _3doiV")
 
     console.log("Task Done")
 
